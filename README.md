@@ -16,11 +16,11 @@ Você encontra nos links abaixo, quais foram as análises tiradas através da ex
 
 # Documentos 
 
-Análise completa: 
+*Análise completa:* 
 
 Google Drive - https://docs.google.com/document/d/1RI91Bgtm-eUamis3wx57EwSMnPEBlXq-SNweY24VRZA/edit#
 
-Gráficos
+*Gráficos:*
 
 Primeiro Quadrimestre de 2020 - https://colab.research.google.com/drive/15wtbsMK6jlCHGQPzTeS3SizeqPKWhK-y?authuser=1#scrollTo=fBT_skEbE7lQ
 
