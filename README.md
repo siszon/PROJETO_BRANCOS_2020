@@ -2,7 +2,7 @@
 
 # Sobre o projeto 
 
-As análises contidas neste notebook fazem parte do projeto desenvolvido pelo Divisão do Sistema de Zoneamento (DSIZ) do Departamaento de Uso e Ocupação do Solo (DEUSO) da Prefeitura Municipal de São Paulo. O dataset são dados reais, disponíveis no banco de dados do DSIZ, contendo informações de lotes "brancos" (como chamamos os novos lotes cadastrados disponiveis para atualização do zoneamento) do ano 2020. O foco da análise será a relação dos novos lotes por Zona de Uso e Subpreefeitura do município de São Paulo.
+As análises contidas neste notebook fazem parte do projeto desenvolvido pela Divisão de Sistema de Informações sobre Zoneamento (DSIZ) do Departamaento de Uso e Ocupação do Solo (DEUSO) da Prefeitura Municipal de São Paulo. O dataset são dados reais, disponíveis no banco de dados do DSIZ, contendo informações de lotes "brancos" (como chamamos os novos lotes cadastrados disponiveis para atualização do zoneamento) do ano 2020. O foco da análise será a relação dos novos lotes por Zona de Uso e Subpreefeitura do município de São Paulo.
 
 # Objetivo 
 O objetivo deste repositório é análisar a dinâmica dos novos lotes cadastrados no banco de dados do DSIZ no município de São Paulo.
@@ -34,7 +34,7 @@ Compilado dos Quadrimestres  - https://colab.research.google.com/drive/1d-R9nKvb
 
 # Fontes 
 
-Divisão do Sistema de Zoneamento - PMSP;
+Divisão de Sistema de Informações sobre Zoneamento - PMSP;
 
 Siszon Web;
 
