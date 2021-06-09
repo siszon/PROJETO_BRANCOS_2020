@@ -18,7 +18,7 @@ Você encontra nos links abaixo, quais foram as análises tiradas através da ex
 
 *Análise completa:* 
 
-Google Drive - https://docs.google.com/document/d/1RI91Bgtm-eUamis3wx57EwSMnPEBlXq-SNweY24VRZA/edit#
+Google Drive - https://drive.google.com/drive/u/1/folders/1DHcqac95PrpLIYWL1cXLuEZWbbv0AQxJ
 
 *Gráficos:*
 
